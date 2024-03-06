@@ -1,2 +1,8 @@
-package ro.ctrln.javafx.calculator.operations;public enum Operation {
+package ro.ctrln.javafx.calculator.operations;
+
+public enum Operation {
+    ADDITION,
+    SUBTRACTION,
+    MULTIPLICATION,
+    DIVISION;
 }
